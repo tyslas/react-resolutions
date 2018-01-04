@@ -2,30 +2,13 @@
   text-align: center;
 }
 
-.Nav {
-
-  /* font-size: 2rem; */
-  /* font-weight: bold; */
+.gitLogo {
+  max-height: 32px;
 }
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
-}
-
-.App-title {
-  font-size: 1.5em;
-}
-
-.App-intro {
-  font-size: large;
+  height: 32px;
 }
 
 @keyframes App-logo-spin {
